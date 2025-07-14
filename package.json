@@ -1,0 +1,11 @@
+{
+  "name": "show-do-milhao",
+  "version": "1.0.0",
+  "description": "Um jogo de perguntas e respostas no estilo Show do Milhão, desenvolvido em Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jacson Francisco Viana Santos",
+  "license": "MIT"
+}
